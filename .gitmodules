@@ -1,19 +1,76 @@
 [submodule "borg"]
 	path = lib/borg
 	url = git@github.com:emacscollective/borg.git
-[submodule "epkg"]
-	path = lib/epkg
-	url = git@github.com:emacscollective/epkg.git
 [submodule "closql"]
 	path = lib/closql
 	url = git@github.com:emacscollective/closql.git
+[submodule "compat"]
+	path = lib/compat
+	url = https://git.sr.ht/~pkal/compat
+[submodule "consult"]
+	path = lib/consult
+	url = https://github.com/minad/consult
+[submodule "diff-hl"]
+	path = lib/diff-hl
+	url = https://github.com/dgutov/diff-hl
 [submodule "emacsql"]
 	path = lib/emacsql
 	url = git@github.com:skeeto/emacsql.git
 	no-byte-compile = emacsql-pg.el
-[submodule "compat"]
-	path = lib/compat
-	url = https://git.sr.ht/~pkal/compat
+[submodule "embark"]
+	path = lib/embark
+	url = https://github.com/oantolin/embark
+[submodule "epkg"]
+	path = lib/epkg
+	url = git@github.com:emacscollective/epkg.git
+[submodule "exec-path-from-shell"]
+	path = lib/exec-path-from-shell
+	url = https://github.com/purcell/exec-path-from-shell
+[submodule "gcmh"]
+	path = lib/gcmh
+	url = https://gitlab.com/koral/gcmh
+[submodule "hl-todo"]
+	path = lib/hl-todo
+	url = https://github.com/tarsius/hl-todo
+[submodule "lazycat-theme"]
+	path = lib/lazycat-theme
+	url = https://github.com/manateelazycat/lazycat-theme.git
 [submodule "llama"]
 	path = lib/llama
 	url = https://git.sr.ht/~tarsius/llama
+[submodule "marginalia"]
+	path = lib/marginalia
+	url = https://github.com/minad/marginalia
+[submodule "mixed-pitch"]
+	path = lib/mixed-pitch
+	url = https://gitlab.com/jabranham/mixed-pitch
+[submodule "no-littering"]
+	path = lib/no-littering
+	url = https://github.com/emacscollective/no-littering
+[submodule "orderless"]
+	path = lib/orderless
+	url = https://github.com/oantolin/orderless
+[submodule "rainbow-delimiters"]
+	path = lib/rainbow-delimiters
+	url = https://github.com/Fanael/rainbow-delimiters
+[submodule "setup"]
+	path = lib/setup
+	url = https://github.com/emacsmirror/setup
+[submodule "super-save"]
+	path = lib/super-save
+	url = https://github.com/bbatsov/super-save
+[submodule "vertico"]
+	path = lib/vertico
+	url = https://github.com/minad/vertico
+[submodule "vundo"]
+	path = lib/vundo
+	url = https://github.com/casouri/vundo
+[submodule "wgrep"]
+	path = lib/wgrep
+	url = https://github.com/mhayashi1120/Emacs-wgrep
+[submodule "ws-butler"]
+	path = lib/ws-butler
+	url = https://github.com/lewang/ws-butler
+[submodule "yasnippet"]
+	path = lib/yasnippet
+	url = https://github.com/joaotavora/yasnippet
