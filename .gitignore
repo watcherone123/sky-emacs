@@ -1,0 +1,12 @@
+/*
+!.gitignore
+!.gitmodules
+!Makefile
+!init.el
+!early-init.el
+!README.md
+!useful-tools/
+!lib/
+!site-lisp/
+!init-minimal.el
+!init-quick-edit.el
